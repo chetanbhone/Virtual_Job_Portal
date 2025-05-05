@@ -76,23 +76,15 @@ Open in Eclipse
 Import as Existing Maven Project
 Setup Apache Tomcat
 
-
-
 Build the project
 
-
 mvn clean install
-
-
 
 Deploy on Tomcat
 
 Run the project on a configured Tomcat server
 
-
-
 Access in browser
-
 
 http://localhost:8080/virtual-job-portal/
 
@@ -102,8 +94,6 @@ Admin:
   username: admin
   password: admin123
 
-Job Seeker:
-  Register via seeker registration page
 
 
 
