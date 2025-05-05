@@ -2,7 +2,7 @@
 
 # 💼 Virtual Job Portal
 
-The **Virtual Job Portal** is a full-stack Java web application that bridges the gap between job seekers and job givers (admins). It allows admins to post and manage job listings, and job seekers to apply for them by uploading resumes and personal details — providing a real-world simulation of modern job platforms like LinkedIn or Naukri.
+The **Virtual Job Portal** is a full-stack Java web application that bridges the gap between job seekers and job givers (admins). It allows admins to post and manage job listings, and job seekers to apply for them by uploading resumes and personal details
 
 ---
 
